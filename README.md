@@ -3,7 +3,7 @@
 
 
 
-Illustration of swarm intelligence through a flocking example utilizing coherent emergent behavior (focking) of a swarm, when each agent is
+Illustration of swarm intelligence through a flocking example utilizing coherent emergent behavior (flocking) of a swarm, when each agent is
 
     1. Attracted to other agents
     2. Repulsed when too close to other agents
